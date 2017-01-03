@@ -1,0 +1,13 @@
+{
+  "name": "ExpandOnline/jpgraph",
+  "type": "project",
+  "require": {
+    "php": ">=5.4"
+  },
+  "license": "QPL 1.0",
+  "autoload": {
+    "psr-0" : {
+      "JpGraph" : "."
+    }
+  }
+}
